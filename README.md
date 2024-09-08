@@ -1,4 +1,4 @@
-# Olá mundo! 🌎?
+# Olá mundo! 🌎
 
 Meu nome é **Bruno Lima**!
 
@@ -18,13 +18,6 @@ Meu nome é **Bruno Lima**!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
 </div>
-
-## Projetos em Destaque
-
-Aqui você pode adicionar uma seção para destacar alguns de seus projetos favoritos ou mais relevantes. Por exemplo:
-
-- [Nome do Projeto 1](link-do-projeto): Breve descrição do que o projeto faz.
-- [Nome do Projeto 2](link-do-projeto): Breve descrição do que o projeto faz.
 
 ## Contato
 
